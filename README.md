@@ -26,4 +26,11 @@
    <ul>
     <li><samp>HP-35</samp></li>
     <li><samp>sorting an array</samp></li>
+    <li><samp>sorting</samp></li>
+    <li><samp>Linked Lists</samp></li>
+    <li><samp>Trees</samp></li>
+    <li><samp>Queues</samp></li>
+    <li><samp>Heap</samp></li>
+    <li><samp>Hash Tables</samp></li>
+    <li><samp>Graphs</samp></li>
    </ul> 
