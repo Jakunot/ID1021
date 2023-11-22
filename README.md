@@ -24,13 +24,14 @@
  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
  </div>
    <ul>
-    <li><samp>HP-35</samp></li>
-    <li><samp>sorting an array</samp></li>
-    <li><samp>sorting</samp></li>
-    <li><samp>Linked Lists</samp></li>
-    <li><samp>Trees</samp></li>
-    <li><samp>Queues</samp></li>
-    <li><samp>Heap</samp></li>
-    <li><samp>Hash Tables</samp></li>
-    <li><samp>Graphs</samp></li>
+    <li><samp><a href="Tasks/HP-35/">HP-35</a></samp></li>
+    <li><samp><a href="Tasks/sorting an array/">sorting an array</a></samp></li>
+    <li><samp><a href="Tasks/sorting/">sorting</a></samp></li>
+    <li><samp><a href="Tasks/linked list/">linked list</a></samp></li>
+    <li><samp><a href="Tasks/trees/">trees</a></samp></li>
+    <li><samp><a href="Tasks/queues/">queues</a></samp></li>
+    <li><samp><a href="Tasks/heap/">heap</a></samp></li>
+    <li><samp><a href="Tasks/hash tables/">hash tables</a></samp></li>
+    <li><samp><a href="Tasks/graphs/">graphs</a></samp></li>
    </ul> 
+   
